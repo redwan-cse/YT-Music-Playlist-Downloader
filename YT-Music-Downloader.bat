@@ -66,7 +66,7 @@ echo   --------------------------------------------------
 echo.
 echo   [✓] Download Finished.
 echo.
-echo   Your files have been saved to a new folder.
+echo   Your files have been saved to a new folder named after the playlist.
 echo   (Note: Private or removed videos may have been skipped.)
 echo.
 echo   Press any key to continue...

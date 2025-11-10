@@ -15,7 +15,7 @@ Designed for simplicity, it hides all normal download logs and warnings, showing
 * **🎧 Auto-Conversion:** Automatically extracts audio and converts it to high-quality MP3.
 * **🖼️ Rich Metadata:** Embeds video thumbnails as album art and includes Artist, Title, and Release Date tags.
 * **📂 Organized:** Saves downloads into neat folders named after the playlist.
-* **🔁 Batch Mode:** Download multiple playlists in one session without restarting the script.
+* **🔁 Batch Mode:** Download full playlist in one session without restarting the script.
 * **🛡️ Resilient:** Automatically skips private or removed videos (showing an error) without stopping the entire playlist.
 
 ---
